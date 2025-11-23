@@ -4,6 +4,10 @@
  * Module dependencies.
  */
 
+/* 
+Create, Read, Update, Delete -- CRUD operation
+*/
+
 var app = require('./app');
 var debug = require('debug')('assignment3:server');
 var http = require('http');
